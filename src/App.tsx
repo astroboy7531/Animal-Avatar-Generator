@@ -17,6 +17,8 @@ function App() {
       <input type="text" placeholder='Insert name you want.'
         value = {name} onChange = { (e) => setName(e.target.value) }
       />
+	  
+	  /*{ console.log( 'Peter Hiro') }*/	
     </div>
   )
 }
