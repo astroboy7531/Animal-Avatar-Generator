@@ -18,7 +18,7 @@ function App() {
         value = {name} onChange = { (e) => setName(e.target.value) }
       />
 	  
-	  
+	  /*{ console.log( 'Peter Hiro') }*/	
     </div>
   )
 }
